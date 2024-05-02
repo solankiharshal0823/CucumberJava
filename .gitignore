@@ -1,0 +1,9 @@
+.idea/
+out/
+target/
+output/
+cucumber-report/
+phantomjsdriver.log
+*.jpg
+cucumber_project.iml
+
